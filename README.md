@@ -4,3 +4,4 @@ These Notebooks from Course Generative AI with Large Language Models deep learni
 
 I am putting them here to use them as a reference
 -Lab2 (PEFT) LORA, instruction fine-tuning, summarization Task
+-Lab3, RLHF, Hate speech
